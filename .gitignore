@@ -1,3 +1,4 @@
+*.zip
 kernel-metadata.json
 kaggle*
 models/
